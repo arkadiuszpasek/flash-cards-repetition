@@ -39,15 +39,15 @@ const toggleCard = flashcard => {
     flashcard.firstElementChild.classList.toggle('card-rotate');
 }
 
-const loadFlashcards = async jsonName => {
+const loadFlashcards = async (navName, jsonName) => {
     try{
         const res = await fetch(jsonName + '.json');
-        flashcardSets.set(jsonName, await res.json());
+        flashcardSets.set(navName, await res.json());
     
         const li = document.createElement('li');
         li.classList.add('nav-item');
         const a = document.createElement('a');
-        a.appendChild(document.createTextNode(jsonName));
+        a.appendChild(document.createTextNode(navName));
         a.classList.add('nav-link');
         a.href = '#';
         a.addEventListener('click', ()=>{
@@ -94,8 +94,8 @@ const selectSet = targetSet => {
     });
 }
 
-loadFlashcards('English-1')
-loadFlashcards('English-2')
+loadFlashcards('English 1', 'https://github.com/arkadiuszpasek/flash-cards-repetition/blob/master/English-1.json')
+loadFlashcards('English 2', 'https://github.com/arkadiuszpasek/flash-cards-repetition/blob/master/English-2.json')
 
 
 
