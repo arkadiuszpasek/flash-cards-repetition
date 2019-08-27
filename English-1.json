@@ -1,18 +1,287 @@
 [
     {
-        "word": "Hello",
-        "definition": "Used to greet someone"
+        "word": "innocuous",
+        "definition": "not harmful or offensive",
+        "example": "it was an innocuous question"
     },
     {
-        "word": "Hello",
-        "definition": "Used to greet someone"
+        "word": "scarcity",
+        "definition": "the state of being scarce or in short supply; shortage.",
+        "example": "the growing scarcity of resources"
     },
     {
-        "word": "Hello",
-        "definition": "Used to greet someone"
+        "word": "mellow",
+        "definition": "(especially of sound, taste, and color) pleasantly smooth or soft; free from harshness.",
+        "example": "she was hypnotized by the mellow tone of his voice"
     },
     {
-        "word": "Hello",
-        "definition": "Used to greet someone"
+        "word": "vilify",
+        "definition": "speak or write about in an abusively disparaging manner. /oczerniać",
+        "example": "he has been vilified in the press"
+    },
+    {
+        "word": "solace",
+        "definition": "comfort or consolation in a time of distress or sadness.",
+        "example": "she sought solace in her religion"
+    },
+    {
+        "word": "twofold",
+        "definition": "twice as great or as numerous.",
+        "example": "a twofold increase in the risk"
+    },
+    {
+        "word": "discernible",
+        "definition": "able to be discerned; perceptible.",
+        "example": "the scandal had no discernible effect on his career"
+    },
+    {
+        "word": "pitfall",
+        "definition": "a hidden or unsuspected danger or difficulty.",
+        "example": "He bought some books on self-publishing and brushed up on the perils and pitfalls involved"
+    },
+    {
+        "word": "turmoil",
+        "definition": "a state of great disturbance, confusion, or uncertainty.",
+        "example": "the country was in turmoil"
+    },
+    {
+        "word": "meticulous",
+        "definition": "showing great attention to detail; very careful and precise./skrupulatny",
+        "example": "he had always been so meticulous about his appearance"
+    },
+    {
+        "word": "succumb",
+        "definition": "fail to resist (pressure, temptation, or some other negative force).",
+        "example": "he has become the latest to succumb to the strain"
+    },
+    {
+        "word": "injunction",
+        "definition": "an authoritative warning or order.",
+        "example": "Commands and injunctions , as I suggested, punctuate the text from the outset."
+    },
+    {
+        "word": "feeble",
+        "definition": "lacking physical strength, especially as a result of age or illness.",
+        "example": "my legs are very feeble after the flu"
+    },
+    {
+        "word": "plausible",
+        "definition": "(of an argument or statement) seeming reasonable or probable.",
+        "example": "a plausible explanation"
+    },
+    {
+        "word": "specious",
+        "definition": "superficially plausible, but actually wrong.",
+        "example": "a specious argument"
+    },
+    {
+        "word": "esteem/ to esteem",
+        "definition": "respect and admiration, typically for a person./ respect and admire",
+        "example": "many of these qualities are esteemed by managers"
+    },
+    {
+        "word": "errand",
+        "definition": "a short journey undertaken in order to deliver or collect something, often on someone else's behalf.",
+        "example": "she asked Tim to run an errand for her"
+    },
+    {
+        "word": "adamant",
+        "definition": "refusing to be persuaded or to change one's mind.",
+        "example": "he is adamant that he is not going to resign"
+    },
+    {
+        "word": "dabble",
+        "definition": "take part in an activity in a casual or superficial way.",
+        "example": "he dabbled in writing as a young man"
+    },
+    {
+        "word": "averse",
+        "definition": "having a strong dislike of or opposition to something.",
+        "example": "as a former CIA director, he is not averse to secrecy"
+    },
+    {
+        "word": "superior/inferior",
+        "definition": "higher/lower in rank, status, or quality.",
+        "example": "obeying their superiors' orders"
+    },
+    {
+        "word": "pancreas",
+        "definition": "trzustka",
+        "example": "pancreatic"
+    },
+    {
+        "word": "next of kin",
+        "definition": "a person's closest living relative or relatives.",
+        "example": "The driver's name was being withheld until police could notify next of kin ."
+    },
+    {
+        "word": "aptitude",
+        "definition": "a natural ability to do something.",
+        "example": "she had a remarkable aptitude for learning words"
+    },
+    {
+        "word": "intricate",
+        "definition": "very complicated or detailed.",
+        "example": "an intricate network of canals"
+    },
+    {
+        "word": "surpass",
+        "definition": "exceed/ be greater than",
+        "example": "levels of production were surpassed in 1253"
+    },
+    {
+        "word": "elusive",
+        "definition": "difficult to find, catch, or achieve.",
+        "example": "success will become ever more elusive"
+    },
+    {
+        "word": "to agitate/agitated",
+        "definition": "make (someone) troubled or nervous. / feeling or appearing troubled or nervous.",
+        "example": "the thought of questioning Toby agitated him extremely"
+    },
+    {
+        "word": "avid",
+        "definition": "having or showing a keen interest in or enthusiasm for something.",
+        "example": "an avid reader of science fiction"
+    },
+    {
+        "word": "distinction",
+        "definition": "a difference or contrast between similar things or people./ excellence that sets someone or something apart from others.",
+        "example": "there is a sharp distinction between domestic politics and international politics/ a novelist of distinction"
+    },
+    {
+        "word": "benevolent/ malevolent",
+        "definition": "well meaning and kindly./ having or showing a wish to do evil to others.",
+        "example": "a benevolent smile/ the glint of dark, malevolent eyes"
+    },
+    {
+        "word": "magnanimous",
+        "definition": "very generous or forgiving, especially toward a rival or someone less powerful than oneself./ wspaniałomyślny",
+        "example": "More importantly, the ode implies that Henri is generous and magnanimous "
+    },
+    {
+        "word": "be thin on the ground",
+        "definition": "to exist only in small numbers or amounts",
+        "example": ""
+    },
+    {
+        "word": "silver lining",
+        "definition": "hopeful side of a situation that might seem gloomy on the surface. / bright side",
+        "example": "Ginny: So then I thought, I'd like you to have something to remember me by, you know, if you meet some veela when you're off doing whatever you're doing. Harry: I think dating opportunities are going to be pretty thin on the ground, to be honest. Ginny: There's the silver lining I've been looking for."
+    },
+    {
+        "word": "biased",
+        "definition": "stronniczy",
+        "example": "survivorship bias <- cool effect, recommended to google"
+    },
+    {
+        "word": "convoluted",
+        "definition": "(especially of an argument, story, or sentence) extremely complex and difficult to follow.",
+        "example": "its convoluted narrative encompasses all manner of digressions"
+    },
+    {
+        "word": "ineffable",
+        "definition": "too great or extreme to be expressed or described in words.",
+        "example": "the ineffable natural beauty of the Everglades"
+    },
+    {
+        "word": "girth",
+        "definition": "obwód",
+        "example": ""
+    },
+    {
+        "word": "loath",
+        "definition": "reluctant; unwilling.",
+        "example": "I was loath to leave"
+    },
+    {
+        "word": "to loathe /loathsome",
+        "definition": "feel intense dislike or disgust for.",
+        "example": "she loathed him on sight"
+    },
+    {
+        "word": "well thought of",
+        "definition": "having a good reputation; admired or respected by others. /dobrze przemyślane ",
+        "example": "he was very well-thought-of within the club"
+    },
+    {
+        "word": "utterly",
+        "definition": "completely and without qualification; absolutely.",
+        "example": "he looked utterly ridiculous/ to devote yourself utterly to a set of moral principles"
+    },
+    {
+        "word": "obscure",
+        "definition": "niejasny/ niezrozumiały",
+        "example": "And  though it may be obscure to me"
+    },
+    {
+        "word": "deference",
+        "definition": "humble submission and respect.",
+        "example": "he addressed her with the deference due to age"
+    },
+    {
+        "word": "ploy",
+        "definition": "a cunning plan or action designed to turn a situation to one's own advantage. / taktyka",
+        "example": "That's a cheap ploy - Frank Underwood"
+    },
+    {
+        "word": "prudent",
+        "definition": "acting with or showing care and thought for the future.",
+        "example": "no prudent money manager would authorize a loan without first knowing its purpose"
+    },
+    {
+        "word": "omnivore, carnivore, herbivore",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "hands down",
+        "definition": " Used when talking about whether something is easily the best.",
+        "example": ""
+    },
+    {
+        "word": "gill",
+        "definition": "skrzele/ the paired respiratory organ of fishes and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx.",
+        "example": " in addition to extracting oxygen from the water with their gills "
+    },
+    {
+        "word": "erratic",
+        "definition": "not even or regular in pattern or movement; unpredictable. /niekonsekwentny,nieregularny",
+        "example": "He still has this erratic speech pattern, the fluttering of the eyes, and he's the most appalling speechmaker."
+    },
+    {
+        "word": "to get one’s feet wet",
+        "definition": "to get first-time experience with someting",
+        "example": ""
+    },
+    {
+        "word": "to sugar-coat",
+        "definition": "make superficially attractive or acceptable.",
+        "example": "you won't see him sugar-coat the truth"
+    },
+    {
+        "word": "quick-witted",
+        "definition": "bystry",
+        "example": ""
+    },
+    {
+        "word": "dally",
+        "definition": "to linger/ marudzić, ale w znaczeniu, że tak tracić czas",
+        "example": "workers were loafing, dallying, or goofing off"
+    },
+    {
+        "word": "",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "",
+        "definition": "",
+        "example": ""
     }
 ]

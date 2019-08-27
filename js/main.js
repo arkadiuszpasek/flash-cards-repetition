@@ -55,7 +55,7 @@ const loadFlashcards = async jsonName => {
         })
         li.appendChild(a);
         document.querySelector('.navbar-nav').appendChild(li);
-        addAlert(`Loaded successfuly set: '${jsonName}'`, 'info');
+        addAlert(`Successfully loaded set: '${jsonName}'`, 'info');
     }
     catch{
         addAlert(`Could not load set: ${jsonName}`, 'danger')
@@ -65,7 +65,7 @@ const loadFlashcards = async jsonName => {
 const selectSet = targetSet => {
     flashcards.innerHTML = '';
     flashcardSets.get(targetSet.text).forEach(flashcard => {
-        flashcards.innerHTML += `
+        let result = `
         <div class="flashcard col-md-4 mt-3">
             <div class="card-inner">
                 <div class="card border-primary card-body">
@@ -73,12 +73,20 @@ const selectSet = targetSet => {
                         <h4 class="card-title">${flashcard.word}</h4>
                     </div>
                     <div class="card-back hide">
-                        <p class="card-text">${flashcard.definition}</p>
-                    </div>
+                        <p class="card-text">${flashcard.definition}</p>`
+        if(flashcard.example != null){
+            result += `<small>Example: "${flashcard.example}"</small>`
+        }
+        result +=
+                    `</div>
                 </div>    
             </div>
         </div>`
+        flashcards.innerHTML += result;
     });
+    // if (flashcard.definition != null){
+    //     flashcards.innerHTML += `<small>Example: "${flashcard.example}"</small>`;
+    // }
     flashcards.querySelectorAll('.flashcard').forEach(flashcard => {
         flashcard.addEventListener('click', () => {
             toggleCard(flashcard);
