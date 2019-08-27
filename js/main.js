@@ -41,7 +41,7 @@ const toggleCard = flashcard => {
 
 const loadFlashcards = async (navName, jsonName) => {
     try{
-        const res = await fetch(jsonName + '.json');
+        const res = await fetch(jsonName);
         flashcardSets.set(navName, await res.json());
     
         const li = document.createElement('li');
@@ -84,9 +84,6 @@ const selectSet = targetSet => {
         </div>`
         flashcards.innerHTML += result;
     });
-    // if (flashcard.definition != null){
-    //     flashcards.innerHTML += `<small>Example: "${flashcard.example}"</small>`;
-    // }
     flashcards.querySelectorAll('.flashcard').forEach(flashcard => {
         flashcard.addEventListener('click', () => {
             toggleCard(flashcard);
