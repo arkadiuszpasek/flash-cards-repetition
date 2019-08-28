@@ -74,7 +74,7 @@ const selectSet = targetSet => {
                     </div>
                     <div class="card-back hide">
                         <p class="card-text">${flashcard.definition}</p>`
-        if(flashcard.example != null){
+        if(flashcard.example != null && flashcard.example != ''){
             result += `<small>Example: "${flashcard.example}"</small>`
         }
         result +=
