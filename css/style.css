@@ -2,7 +2,6 @@
     position: relative;
     text-align: center;
     transition: transform 0.6s;
-    transform-style: preserve-3d;
 }
 .card-inner:hover{
     cursor: pointer;
@@ -13,7 +12,7 @@
 }
 
 .card-front, .card-back {
-    backface-visibility: hidden;
+    /* backface-visibility: hidden; */
 }
 
 .card-back {
