@@ -66,7 +66,7 @@ const selectSet = targetSet => {
     flashcards.innerHTML = '';
     flashcardSets.get(targetSet.text).forEach(flashcard => {
         let result = `
-        <div class="flashcard col-md-4 mt-3">
+        <div class="flashcard col-md-4 col-sm-6 mt-3">
             <div class="card-inner">
                 <div class="card border-primary card-body">
                     <div class="card-front">
