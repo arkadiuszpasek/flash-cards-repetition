@@ -89,10 +89,11 @@ const selectSet = targetSet => {
             toggleCard(flashcard);
         })
     });
+    document.querySelector('.navbar-toggler').click();
 }
 
 loadFlashcards('English 1', 'https://raw.githubusercontent.com/arkadiuszpasek/flash-cards-repetition/master/English-1.json')
-loadFlashcards('English 2', 'https://raw.githubusercontent.com/arkadiuszpasek/flash-cards-repetition/master/English-2.json')
+loadFlashcards('English 2', 'English-2.json')
 
 
 
