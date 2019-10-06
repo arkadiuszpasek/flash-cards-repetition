@@ -1,18 +1,407 @@
 [
     {
-        "word": "Goodbye",
-        "definition": "Used during farewells"
+        "word": "to vex",
+        "definition": "",
+        "example": ""
     },
     {
-        "word": "Goodbye",
-        "definition": "Used during farewells"
+        "word": "ravenous",
+        "definition": "",
+        "example": ""
     },
     {
-        "word": "Goodbye",
-        "definition": "Used during farewells"
+        "word": "to seethe",
+        "definition": "",
+        "example": ""
     },
     {
-        "word": "Hello",
-        "definition": "Used to greet someone"
+        "word": "dubious",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "tiresome",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "dismay",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "contraption",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to stammer (out)",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "indignant",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "thorn in one's side",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to have/keep one's ear to the ground",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to work one's fingers to the bone",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to squirm",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "solace",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "sublime",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "sanguine",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "gullible",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "peculiar",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "squaint",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to induct",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to defile",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to foster",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "ambiguous",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "larceny",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "lust",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to defy",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "valiant",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "delude",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "adorn",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "lenient",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "evoke",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "debacle",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "ignominious",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to rant",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "destitute",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "forage",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "inquisitive",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "malice/malicious",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "callous",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to go through the roof",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "run-of-the-mill",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to impugn",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to wither",
+        "definition": "uschnąć",
+        "example": ""
+    },
+    {
+        "word": "to thrive",
+        "definition": "prosperować, kwitnąć",
+        "example": ""
+    },
+    {
+        "word": "devious",
+        "definition": "przebiegły",
+        "example": ""
+    },
+    {
+        "word": "to usher",
+        "definition": "show or guide",
+        "example": ""
+    },
+    {
+        "word": "to instill",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "contagious",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "futile",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to torment",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "gluttony",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "sloth",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "lust",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to abide (by the rules)",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to escalate",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to scoff",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "surreptitious",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "candid(ly)",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to exert",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "flagrant",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "contempt/disdain",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "vessel",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to budge",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to waive",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "adjourned",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to endeavour to",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to catch on",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "at ease",
+        "definition": "spokojnie, z łatwością",
+        "example": ""
+    },
+    {
+        "word": "to intercept",
+        "definition": "przechwycić / prevent sb from continuing to a destination",
+        "example": ""
+    },
+    {
+        "word": "proverbial",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "apprehensive",
+        "definition": "anxious or fearful that sth bad will happen",
+        "example": ""
+    },
+    {
+        "word": "rubble",
+        "definition": "gruz",
+        "example": ""
+    },
+    {
+        "word": "rabble",
+        "definition": "motłoch",
+        "example": ""
+    },
+    {
+        "word": "intransigent",
+        "definition": "unwilling or refusing to change one's views or to agree",
+        "example": ""
+    },
+    {
+        "word": "incapacitorially",
+        "definition": "nieumyślnie",
+        "example": ""
+    },
+    {
+        "word": "to harness/harness",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "provisionally",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to arouse",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to deter",
+        "definition": "",
+        "example": ""
+    },
+    {
+        "word": "to jostle",
+        "definition": "",
+        "example": ""
     }
 ]
