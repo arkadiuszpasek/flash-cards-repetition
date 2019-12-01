@@ -21,6 +21,7 @@ const updateAlerts = () => {
         info.innerHTML += alert;
     })
 }
+
 const toggleCard = flashcard => {
     const cardClassList = flashcard.firstElementChild.firstElementChild.classList;
     if(cardClassList.contains('border-primary')){
@@ -92,9 +93,6 @@ const selectSet = targetSet => {
     document.querySelector('.navbar-toggler').click();
 }
 
-loadFlashcards('Example English - Set 1', 'https://raw.githubusercontent.com/arkadiuszpasek/flash-cards-repetition/master/English-1.json')
-loadFlashcards('Not Finished - English 2', 'English-2.json')
-loadFlashcards('Not Finished - English 3', 'English-3.json')
-
-
-
+loadFlashcards('Example English - Set 1', 'https://raw.githubusercontent.com/arkadiuszpasek/flash-cards-repetition/master/sets/English-1.json')
+loadFlashcards('Not Finished - English 2', 'sets/English-2.json')
+loadFlashcards('Not Finished - English 3', 'sets/English-3.json')
