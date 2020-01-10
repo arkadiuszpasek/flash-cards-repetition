@@ -106,8 +106,8 @@
     },
     {
         "word": "pancreas",
-        "definition": "trzustka",
-        "example": "pancreatic"
+        "definition": "a large gland behind the stomach that secretes digestive enzymes into the duodenum/ trzustka",
+        "example": "Crucial to this is the hormone insulin, which is secreted into the blood by the pancreas "
     },
     {
         "word": "next of kin",
@@ -171,7 +171,7 @@
     },
     {
         "word": "biased",
-        "definition": "stronniczy",
+        "definition": "unfairly prejudiced for or against someone or something./ uprzedzony,stronniczy",
         "example": "survivorship bias <- cool effect, recommended to google"
     },
     {
@@ -186,7 +186,7 @@
     },
     {
         "word": "girth",
-        "definition": "obwód",
+        "definition": "the measurement around the middle of something, especially a person's waist /obwód",
         "example": ""
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "word": "obscure",
-        "definition": "niejasny/ niezrozumiały",
+        "definition": "not discovered or known about; uncertain /niejasny,niezrozumiały",
         "example": "And  though it may be obscure to me"
     },
     {
@@ -231,7 +231,7 @@
     },
     {
         "word": "omnivore, carnivore, herbivore",
-        "definition": "mięso/roślino/wszystko-żerny",
+        "definition": "an animal eating food: of both animal and plant origin, only meat, only plants",
         "example": ""
     },
     {
@@ -241,8 +241,8 @@
     },
     {
         "word": "gill",
-        "definition": "skrzele/ the paired respiratory organ of fishes and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx.",
-        "example": " in addition to extracting oxygen from the water with their gills "
+        "definition": "the paired respiratory organ of fishes and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. /skrzele",
+        "example": "...in addition to extracting oxygen from the water with their gills "
     },
     {
         "word": "erratic",
@@ -261,12 +261,12 @@
     },
     {
         "word": "quick-witted",
-        "definition": "bystry",
+        "definition": "showing or characterized by an ability to think or respond quickly or effectively /bystry",
         "example": ""
     },
     {
         "word": "dally",
-        "definition": "to linger/ marudzić, ale w znaczeniu, że tak tracić czas",
+        "definition": "act or move slowly/ similar: to linger",
         "example": "workers were loafing, dallying, or goofing off"
     }
 ]

@@ -1,7 +1,10 @@
 const info = document.querySelector('.info');
 const flashcards = document.querySelector('.flashcards');
 
+// object for storing alerts to be displayed to user
 let alerts = new Array();
+// object handle for sets, since it's demo
+// we are not making queries to server when loading different sets 
 let flashcardSets = new Map;
 
 const addAlert = (message,state) => {
@@ -24,6 +27,7 @@ const updateAlerts = () => {
 
 const toggleCard = flashcard => {
     const cardClassList = flashcard.firstElementChild.firstElementChild.classList;
+
     if(cardClassList.contains('border-primary')){
         cardClassList.remove('border-primary');
         cardClassList.add('border-success');
@@ -51,7 +55,7 @@ const loadFlashcards = async (navName, jsonName) => {
         a.appendChild(document.createTextNode(navName));
         a.classList.add('nav-link');
         a.href = '#';
-        a.addEventListener('click', ()=>{
+        a.addEventListener('click', () => {
             selectSet(a);
         })
         li.appendChild(a);
